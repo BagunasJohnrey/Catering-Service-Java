@@ -438,7 +438,8 @@ public void ordertInsert(String motif, String table, String tableSeat, String cl
         rSMaterialButtonRectangle9 = new rojerusan.RSMaterialButtonRectangle();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Jarey Catering Services");
+        setTitle("Evelyn Catering Services");
+        setMinimumSize(new java.awt.Dimension(810, 815));
         setResizable(false);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 

@@ -232,6 +232,7 @@ private void userSignUp(){
         rSPanelImage7 = new rojerusan.RSPanelImage();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setMinimumSize(new java.awt.Dimension(810, 840));
         setResizable(false);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
